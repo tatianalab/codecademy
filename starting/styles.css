@@ -1,0 +1,110 @@
+body{
+  font-family: arial;
+}
+
+.container{
+  margin: 0 auto;
+  width:80%;
+}
+
+.card{
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.boxes{
+  width: 20%;
+  min-height: 100px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  float: left;
+  margin: 1em;
+}
+
+/*------ COLOR STYLES------*/
+.parent-bg{
+  background-color: #EAEBEB;
+  color:#1d1f20;
+}
+
+.color{
+  background-color: #F1F3F8;
+  color: #1d1f20;
+}
+
+.bg{
+  background-color: #1d1f20;
+  color: #F1F3F8;
+}
+
+.accent{
+  background-color: #f4a15d;
+  color: #F1F3F8;
+}
+
+/*---- FONT STYLES ------*/
+
+.font-panel{
+  width: 40%;
+  /*border:1px solid black;*/
+  padding: 1em;
+  float: left;
+}
+
+.font-label{
+  text-decoration: underline;;
+}
+
+.bold-text{
+  font-weight:bold;
+}
+
+.cardo{
+  font-family: 'Cardo', serif;
+}
+
+.franklin{
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+/*------- TEXT STYLE ------*/
+
+
+.text-panel h1{
+  font-family: 'Cardo', serif;
+  font-weight: 700;
+}
+
+.text-panel h2{
+  font-family: 'Cardo', serif;
+  font-weight: 400;
+}
+
+.text-panel h1{
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
